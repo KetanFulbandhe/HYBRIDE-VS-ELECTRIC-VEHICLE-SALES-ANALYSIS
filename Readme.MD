@@ -1,5 +1,5 @@
 # HYBRIDE VS ELECTRIC VEHICLE SALES ANALYSIS
-
+![Alt text](/Filter and images/Main Dashboard.JPG "Main Dashboard")
 ## Business Problem
 Identify which brands sold the most BEV and PHBV vehicles in the USA from 2015 until now. Also, determine the top-selling brands and models in each state
 
