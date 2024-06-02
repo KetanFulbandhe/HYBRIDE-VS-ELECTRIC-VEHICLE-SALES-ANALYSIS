@@ -14,7 +14,7 @@
    <br>
    > Shows the total vehical Battery electric vehicle and Plug-in Hybrid Electric Vehicle (PHEV)"
 
-2. Average electric range in KM <br>
+2. Average electric range in KM <br> 
    > Shows the average range of vehical.
 
 3. Battery Electirc Vehicle and percent of total<br>
